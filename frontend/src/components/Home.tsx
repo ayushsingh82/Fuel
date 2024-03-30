@@ -4,7 +4,7 @@ function Home() {
   return (
     <>
       <div className="bg-cover bg-center bg-no-repeat h-[500px]">
-        <h1 className="mt-[-5px] text-3xl font-semibold text-green-600 ">
+        <h1 className="mt-[20px] text-3xl font-semibold text-green-500 ">
           Weclome to real state Dapp
         </h1>
         <div className="flex flex-row justify-between">
@@ -20,15 +20,15 @@ function Home() {
               Forget all difficulties
               <br /> in finding a residence for you{" "}
             </p>
-            <div className="h-[50px] w-[400px] bg-white mt-[30px] border rounded-xl flex justify-between items-center flex-row">
-              <h1 className="text-blue-500 mx-[5px]">Img</h1>
-              <p className="text-gray-700">Search by title/city/country...</p>
+            <div className="h-[50px] w-[400px] bg-white mt-[30px] border rounded-xl flex justify-between items-center flex-row ml-[50px]">
+              {/* <h1 className="text-blue-500 mx-[5px]">Img</h1> */}
+              <p className="text-gray-700 ml-[10px]">Search by title/city/country...</p>
               <div className="h-[30px] w-[60px] bg-blue-600 flex justify-center items-center border rounded-md mr-[10px]">
                 {" "}
                 search
               </div>
             </div>
-            <div className="flex flex-row mt-[60px] gap-x-12">
+            <div className="flex flex-row mt-[60px] gap-x-12 ml-[30px]">
               <div>
                 <h1>3000+</h1>
                 <p>Premium Product</p>
@@ -45,12 +45,12 @@ function Home() {
           </div>
 
           <img
-            className="h-[300px] w-[500px] border rounded-tr-3xl rounded-bl-3xl border-transparent mt-[30px] ml-[30px]"
-            src="https://plus.unsplash.com/premium_photo-1678379473620-db6bc7ff8a11?q=80&w=872&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            className="h-[300px] w-[500px] border rounded-tr-3xl rounded-bl-3xl border-transparent mt-[40px] mr-[40px]"
+            src="https://images.unsplash.com/photo-1449844908441-8829872d2607?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           />
         </div>
       </div>
-      <div className="mt-[40px] w-screen bg-blue-50 flex justify-center flex-col items-center">
+      <div className="mt-[40px] w-screen bg-slate-600 flex justify-center flex-col items-center">
         <h1 className="text-3xl text-green-500 font-bold">Best choices</h1>
         <h2
           className="mt-[20px] text-2xl text-slate-900 font-semibold
@@ -65,27 +65,27 @@ function Home() {
               src="https://plus.unsplash.com/premium_photo-1678379473620-db6bc7ff8a11?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
             <h2 className="text-slate-900 mt-[15px] font-bold">
-              <span className="text-yellow-500">$</span>2000
+              <span className="text-yellow-500">$</span>2000K
             </h2>
             <h3 className="text-blue-600 mt-[10px] font-semibold">Lasan</h3>
           </div>
           <div>
             <img
               className="h-[200px] w-[250px]"
-              src="https://plus.unsplash.com/premium_photo-1678379473620-db6bc7ff8a11?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
             <h2 className="text-slate-900 mt-[15px] text-xl font-bold">
-              <span className="text-yellow-500">$</span>2000
+              <span className="text-yellow-500">$</span>2500k
             </h2>
             <h3 className="text-blue-600 mt-[10px] font-semibold">Lasan</h3>
           </div>
           <div>
             <img
               className="h-[200px] w-[250px]"
-              src="https://plus.unsplash.com/premium_photo-1678379473620-db6bc7ff8a11?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              src="https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
             />
             <h2 className="text-slate-900 mt-[15px] font-bold">
-              <span className="text-yellow-500">$</span>2000
+              <span className="text-yellow-500">$</span>3000k
             </h2>
             <h3 className="text-blue-600 mt-[10px] font-semibold">Lasan</h3>
           </div>
