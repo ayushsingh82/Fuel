@@ -10,17 +10,14 @@ Our DApp utilizes the Fuel Network to create a decentralized platform for buying
 
 ## Features
 
-### 1. Swapping Mechanism
 
-- Users can swap properties securely using our smart contract deployed on the Fuel Network.
-- The swapping mechanism ensures transparency and trust in property transactions.
 
-### 2. NFT Properties
+### 1. NFT Properties
 
 - Properties are represented as NFTs, ensuring unique ownership and characteristics for each property token.
 - Users can buy, sell, or list their properties as NFTs on our platform.
 
-### 3. Property Listing
+### 2. Property Listing
 
 - Users have the option to list their properties on the platform.
 - Listed properties are displayed as NFTs, allowing other users to browse and purchase them.
