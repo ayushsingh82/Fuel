@@ -59,14 +59,14 @@ export default function AllItems({ contract }: AllItemsProps) {
   // ANCHOR: fe_all_items_cards
   return (
     <div>
-      <h2>All Items</h2>
+      <h2 className="text-3xl font-semibold py-3">All Items</h2>
       {status === "success" && (
         <div>
           {itemCount === 0 ? (
             <div>Uh oh! No items have been listed yet</div>
           ) : (
             <div>
-              <div>Total items: {itemCount}</div>
+              <div className="text-2xl">Total items: {itemCount}</div>
               <div className="items-container">
                 {items.map((item) => (
                   <ItemCard
