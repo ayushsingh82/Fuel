@@ -28,7 +28,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1 className="font-semibold text-3xl py-5">Sway Marketplace</h1>
+        <h1 className="font-semibold text-3xl py-5 flex flex-start ml-[40px]">Sway Marketplace</h1>
       </header>
       <nav>
         <ul>
@@ -37,7 +37,7 @@ function App() {
             onClick={() => setActive("home")}
             style={{ padding: "4px 12px", borderRadius: "16px" }}
           >
-            Home
+            Features
           </li>
           <li
             className={active === "all-items" ? "active-tab" : ""}
