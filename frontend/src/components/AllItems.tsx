@@ -59,14 +59,14 @@ export default function AllItems({ contract }: AllItemsProps) {
   // ANCHOR: fe_all_items_cards
   return (
     <div>
-      <h2>All Items</h2>
+      <h2 className="text-3xl font-semibold py-3">All Items</h2>
       {status === "success" && (
         <div>
           {itemCount === 0 ? (
             <div>Uh oh! No items have been listed yet</div>
           ) : (
             <div>
-              <div>Total items: {itemCount}</div>
+              <div className="text-2xl">Total items: {itemCount}</div>
               <div className="items-container">
                 {items.map((item) => (
                   <ItemCard
@@ -83,7 +83,18 @@ export default function AllItems({ contract }: AllItemsProps) {
       {status === "error" && (
         <div>Something went wrong, try reloading the page.</div>
       )}
-      {status === "loading" && <div>Loading...</div>}
+      {status === "loading" && (
+        <div className="pt-16">
+          <div
+            className="inline-block h-8 w-8 animate-spin rounded-full border-4 border-solid border-current border-brandGreen border-e-transparent align-[-0.125em] text-primary motion-reduce:animate-[spin_1.5s_linear_infinite]"
+            role="status"
+          >
+            <span className="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]">
+              Loading...
+            </span>
+          </div>
+        </div>
+      )}
     </div>
   );
 }
