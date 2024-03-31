@@ -31,7 +31,7 @@ To interact with our DApp, follow these steps:
 3. **Explore Properties**: Browse through the listed properties or search for specific ones.
 4. **Buying Properties**: If you find a property you wish to purchase, initiate the buying process through your connected wallet.
 5. **Selling Properties**: If you own properties and wish to sell them, list them on the platform and wait for potential buyers.
-6. **Swapping Mechanism**: Use the swapping feature to exchange properties securely with other users.
+
 
 ## Technologies Used
 
