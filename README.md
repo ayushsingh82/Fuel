@@ -35,9 +35,8 @@ To interact with our DApp, follow these steps:
 
 ## Technologies Used
 
-- **Smart Contract**: Developed using Solidity for the Fuel Network.
-- **Frontend Interface**: Built with HTML, CSS, JavaScript, and a frontend framework (e.g., React, Angular).
-- **Wallet Integration**: Utilizes wallet integration libraries compatible with the Fuel Network (e.g., Metamask).
+- **Smart Contract**: Developed using Sway for the Fuel Network.
+- **Frontend Interface**: Build with react , tailwind
 
 ## Future Enhancements
 
