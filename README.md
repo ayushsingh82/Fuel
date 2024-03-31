@@ -1,5 +1,11 @@
 # DApp README - Fuel Network
 
+![Screenshot 2024-03-31 033434](https://github.com/ayushsingh82/Fuel/assets/121667116/7263bd3f-46bb-44e2-aa0d-9093c3a36de6)
+
+![Screenshot 2024-03-31 033456](https://github.com/ayushsingh82/Fuel/assets/121667116/aaf82d59-3f0d-4c0d-8e06-ed2bd7731f5c)
+
+
+
 ## Overview
 
 Welcome to our DApp (Decentralized Application) built on the Fuel Network. This README provides an overview of our project, its features, and how to use it.
