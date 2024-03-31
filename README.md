@@ -2,7 +2,10 @@
 
 ![Screenshot 2024-03-31 033434](https://github.com/ayushsingh82/Fuel/assets/121667116/7263bd3f-46bb-44e2-aa0d-9093c3a36de6)
 
-![Screenshot 2024-03-31 033456](https://github.com/ayushsingh82/Fuel/assets/121667116/aaf82d59-3f0d-4c0d-8e06-ed2bd7731f5c)
+![WhatsApp Image 2024-03-31 at 08 09 34_001e73d6](https://github.com/ayushsingh82/Fuel/assets/121667116/24e067b5-72b7-4c3e-a65a-4fe7bafe8d0a)
+![WhatsApp Image 2024-03-31 at 08 10 09_9ab67fe7](https://github.com/ayushsingh82/Fuel/assets/121667116/2cb383ef-d038-44c3-a82b-0e31ed41338d)
+
+
 
 
 
